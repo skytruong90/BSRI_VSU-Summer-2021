@@ -1,14 +1,36 @@
-# What is this?
-This is my REU project I did for Valdosta State University and I did my research in Fault Containment Algorithm with Dr. Dasgupta
+# This is the Blazer Summer Research Institute (BSRI) at Valdosta State University in Network Security
 
-# What is an REU?
-Research Experiences for Undergraduates are competitive summer research programs in the United States for undergraduates studying science, engineering, or mathematics. The programs are sponsored by the National Science Foundation, and are hosted in various universities.
+## What is the BSRI Program?
+### The Blazer Summer Research Institute (BSRI) is a competitive program for VSU faculty and undergraduate students that is internally funded by Academic Affairs, University Advancement, and private donations. The goal of the BSRI program is to support faculty-lead undergraduate student research projects during the summer term.
+<img src="logo pic1.png" width="250">
 
-# How competitive was this program? 
-REU programs are highly competitive. This program in particular recently new and was open to only VSU students. They are normally research positions that are fully-funded, which last 6-10 weeks during the summer.
+## BSRI Objective:
+1. Critically analyze data or sources through inquiries in research and/or creative endeavors.
+2. Demonstrate how their project applies what they are learning in the classroom to a real-world problem or scenario.
+3. Be knowledgeable of ethical issues and/or laboratory emergency and safety guidelines associated with a specific field or topic.
+4. Articulate the relevance of their work to members of a general audience and succinctly describe how their research fits into the larger body of knowledge.
+5. Demonstrate information literacy through evaluation of data and relevant sources, including analysis of accuracy, credibility, and bias.
+6. Experience mentorship as one component of undergraduate experiential learning.
+7. Learn how to collaboratively build or maintain a team to conduct research or creative projects, especially for those involving multiple undergraduate students.
 
-# What was my contribution?
+# Our Research Title: SIMULATION EXPERIMENTS OF A DISTRIBUTED FAULT CONTAINMENT ALGORITHM USING RANDOMIZED SCHEDULER
 
+## Our Reserach Goal: 
 
-# The details of this project:
+### Faculty Mentor:
+- Anurag Dasgupta, Ph.D.
+<img src="dasgupta pic.jpg" width="300">
 
+## How view the paper, poster, and presentation:
+1. In order to view the full presentation, going to the folder ``
+2. The full poster can be view by clicking on the ``
+3. The full paper can be view by clicking on the ``
+
+## This is my reserch paper:
+<img src="" width="420">
+
+## This is my research poster:
+<img src="" width="600">
+
+## This is my presentation:
+<img src="" width="600">
