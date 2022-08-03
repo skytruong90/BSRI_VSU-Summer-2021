@@ -2,7 +2,7 @@
 
 ## What is the BSRI Program?
 ### The Blazer Summer Research Institute (BSRI) is a competitive program for VSU faculty and undergraduate students that is internally funded by Academic Affairs, University Advancement, and private donations. The goal of the BSRI program is to support faculty-lead undergraduate student research projects during the summer term.
-<img src="logo pic1.png" width="250">
+<img src="logo pic1.png" width="150">
 
 ## BSRI Objective:
 1. Critically analyze data or sources through inquiries in research and/or creative endeavors.
@@ -19,7 +19,7 @@
 
 ### Faculty Mentor:
 - Anurag Dasgupta, Ph.D.
-<img src="dasgupta pic.jpg" width="300">
+<img src="dasgupta pic.jpg" width="200">
 
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder ``
